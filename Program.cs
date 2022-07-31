@@ -1,5 +1,5 @@
 ﻿using System.Net.Sockets;
-
+/* TCP Client Communication -> C# */
 class Program
 {
     static void Main(string[] args)
